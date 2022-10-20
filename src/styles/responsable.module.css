@@ -1,0 +1,12 @@
+.wrapper{
+    width: 100%;
+    height: 100vh;
+    padding: 10px 20px;
+}
+
+.comandos{
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    align-items: center;
+}

@@ -1,0 +1,92 @@
+.wrapper{
+    width: 100%;
+    padding: 0px 10px;
+}
+
+.header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    margin-top: 10px;
+}
+
+.formContent{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-items: start;
+
+}
+
+.right{
+    width: 50%;
+    border: 1px solid rgb(200, 199, 199);
+    padding: 0px 10px;
+    border-radius: 5px;
+
+}
+.left{
+    width: 50%;
+
+}
+
+.selectores{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.rowFields{
+    display: flex;
+    flex-direction: row;
+}
+
+.form_input{
+    width: 100%;
+    padding: 10px 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.form_input label{
+    padding-right: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    width: 25%;
+}
+
+.form_input_div{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+}
+.form_input_div > input{
+    padding: 0px 0px;
+    width: 70%;
+    padding-left: 5px;
+    height: 2rem;
+    border-radius: 5px;
+    border: 1px solid gray;
+    text-transform: uppercase;
+}
+.form_input_div > input[type="email"]{
+    text-transform: lowercase;
+}
+
+.form_input_div  input[type="checkbox"]{
+    width: 2rem;
+    height: 2rem;
+    background-color: blue;
+}
+
+.form_input_div_dos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}

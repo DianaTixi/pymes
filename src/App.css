@@ -1,0 +1,131 @@
+.swal2-container {
+  z-index: 10000;
+}
+/*.primaryBtn {*/
+/*    cursor: pointer;*/
+/*    font-weight: 500;*/
+/*    padding: 11px 28px;*/
+/*    border-radius: 5px;*/
+/*    font-size: 0.8rem;*/
+/*    border: none;*/
+/*    color: #fff;*/
+/*    background: rgb(5, 5, 90);*/
+/*    transition: all 0.25s ease;*/
+/*    margin-right: 10px;*/
+/*}*/
+
+/*.primaryBtn:hover {*/
+/*    box-shadow: 0 10px 20px -10px rgba(255, 62, 78, 0.6);*/
+/*    !* transform: translateY(-5px); *!*/
+/*    background: rgb(7, 7, 123);*/
+/*}*/
+
+/*.secondBtn {*/
+/*    cursor: pointer;*/
+/*    font-weight: 500;*/
+/*    padding: 11px 28px;*/
+/*    border-radius: 5px;*/
+/*    font-size: 0.8rem;*/
+/*    border: none;*/
+/*    color: white;*/
+/*    background: rgb(52, 209, 52);*/
+/*    transition: all 0.25s ease;*/
+/*    margin-left: 10px;*/
+/*    margin-right: 10px;*/
+/*}*/
+
+/*.secondBtn:hover {*/
+/*    box-shadow: none;*/
+/*    transform: none;*/
+/*    background: green;*/
+/*}*/
+
+/*.thirdBtn {*/
+/*    cursor: pointer;*/
+/*    font-weight: 500;*/
+/*    padding: 11px 28px;*/
+/*    border-radius: 5px;*/
+/*    font-size: 0.8rem;*/
+/*    border: none;*/
+/*    color: white;*/
+/*    background: rgb(123, 246, 15);*/
+/*    transition: all 0.25s ease;*/
+/*    margin-left: 10px;*/
+/*}*/
+
+/*.thirdBtn:hover {*/
+/*    box-shadow: none;*/
+/*    transform: none;*/
+/*    background: rgb(106, 204, 21);*/
+/*}*/
+
+/*.inputSearch {*/
+/*    font-size: 14px;*/
+/*    width: 20%;*/
+/*    border-radius: 5px;*/
+/*    border: 1px solid gray;*/
+/*    margin-right: 10px;*/
+/*    padding: 10px 28px;*/
+/*}*/
+
+/*.contenedor-btn-file input[type="file"] {*/
+/*    appearance: none;*/
+/*    display: none;*/
+/*    visibility: hidden;*/
+/*    opacity: 0;*/
+/*    z-index: -1;*/
+/*}*/
+
+/*th,*/
+/*td {*/
+/*    padding: 15px;*/
+/*    text-align: left;*/
+/*    border-bottom: 1px solid #ddd;*/
+/*    font-size: 13px;*/
+/*}*/
+
+/*.tabla_container {*/
+/*    width: 100%;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    height: 244px;*/
+/*}*/
+
+/*.tabla_container_incidencia {*/
+/*    width: 100%;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    height: 244px;*/
+/*    overflow: scroll;*/
+/*}*/
+
+/*.tabla_container_opcion {*/
+/*    width: 100%;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    height: 550px;*/
+/*    overflow: scroll;*/
+/*}*/
+
+/*.botonesPaginacion {*/
+/*    margin: 20px 0px;*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*    justify-content: start;*/
+
+/*    width: 100%;*/
+/*}*/
+
+/*.errorInput {*/
+/*    color: rgb(216, 7, 7);*/
+/*    margin-top: 2px;*/
+/*    font-size: 14px;*/
+/*}*/
+
+/*.tabla_invisible {*/
+/*    display: "none",*/
+/*}*/
+
+/*a {*/
+/*    text-decoration: none;*/
+/*}*/

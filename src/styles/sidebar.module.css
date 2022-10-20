@@ -1,0 +1,27 @@
+.nav{
+    background: #003d95;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav_icon{
+    margin-left: 2rem;
+  font-size: 2rem;
+  height: 80px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+
+.imagen{
+    background-color: white;
+    width: 120px;
+    margin-right: 10px;
+}
+
+.sidebar_wrap{
+    width: 100%;
+}
